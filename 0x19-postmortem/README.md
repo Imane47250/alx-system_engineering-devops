@@ -1,6 +1,6 @@
 # Web Stack Outage Incident - Unplanned Coffee Break ☕💻
 
-![Alt text](https://media.giphy.com/media/FR61sPFtyp5MnifIN0/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/FR61sPFtyp5MnifIN0/giphy-downsized-large.gif)
 
 ## Issue Summary
 
