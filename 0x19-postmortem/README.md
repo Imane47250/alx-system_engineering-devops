@@ -1,6 +1,6 @@
 # Web Stack Outage Incident - Unplanned Coffee Break ☕💻
 
-![Coffee Break](https://tenor.com/fr/view/coffee-shop-cat-chill-chilling-gif-24580310)
+![alt text]((https://tenor.com/fr/view/coffee-shop-cat-chill-chilling-gif-24580310)
 
 ## Issue Summary
 
